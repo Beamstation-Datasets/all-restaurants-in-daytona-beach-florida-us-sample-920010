@@ -9,9 +9,9 @@
 | Dataset ID | `920010` |
 | Location | Daytona Beach |
 | Category | Restaurants |
-| Full dataset size | 283 records |
-| Free sample size | 28 records (9.89%) |
-| Last export | 2026-04-09T15:37:00.393443+00:00 |
+| Full dataset size | 284 records |
+| Free sample size | 28 records (9.86%) |
+| Last export | 2026-04-16T18:22:17.536515+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-daytona-beach-florida-us-sample-920010/releases/download/sample-latest/beamstation_920010_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
