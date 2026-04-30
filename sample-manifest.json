@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8493b061-87d3-4ef9-8eba-2456538aba87",
+  "export_job_id": "83fffb07-9a65-4f4e-a7bd-cfee5d55a11e",
   "id_short": 920010,
-  "published_at": "2026-04-23T19:05:35Z",
+  "published_at": "2026-04-30T19:19:27Z",
   "repo_name": "all-restaurants-in-daytona-beach-florida-us-sample-920010",
   "sample_asset_name": "beamstation_920010_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/920010/beamstation_920010_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 22,
-  "sample_sha256": "158356b0030841c33f4483d216f10a11de9f256fdf315444c220a6c01e7b2813",
-  "sample_size_bytes": 78845,
-  "total_records": 221
+  "sample_records": 31,
+  "sample_sha256": "fcb3c11e548c6369e387cdd9090c3e7e9103badc1bc15a7504a08c73b714397d",
+  "sample_size_bytes": 131351,
+  "total_records": 318
 }
